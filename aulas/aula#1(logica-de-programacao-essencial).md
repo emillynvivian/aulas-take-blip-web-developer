@@ -6,8 +6,8 @@
 
 **Tópicos:**
 
-1 - Introdução à lógica e à programação
-2 - Introdução ao Portugol
+- 1 - Introdução à lógica e à programação;
+- 2 - Introdução ao Portugol.
 
 
 
