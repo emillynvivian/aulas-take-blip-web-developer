@@ -6,13 +6,13 @@
 
 **Tópicos:**
 
-1 - Introdução ao Git 
-2 - Navegação via command line interface e instalação 
-3 - Entendendo como o Git funciona por baixo dos panos  
-4 - Primeiros comandos com Git 
-5 - Ciclo de vida dos arquivos no Git 
-6 - Introdução ao GitHub 
-7 - Resolvendo conflitos
+- 1 - Introdução ao Git 
+- 2 - Navegação via command line interface e instalação 
+- 3 - Entendendo como o Git funciona por baixo dos panos  
+- 4 - Primeiros comandos com Git 
+- 5 - Ciclo de vida dos arquivos no Git 
+- 6 - Introdução ao GitHub 
+- 7 - Resolvendo conflitos
 
 
 
@@ -86,7 +86,7 @@ _Passo a Passo_
 
 Untracked - Unmodified - Modified - Staged 
 
-​                     (——————Ciclo——————)
+______________(——————Ciclo——————)
 
 **git status** - Fala o status do arquivo.
 
