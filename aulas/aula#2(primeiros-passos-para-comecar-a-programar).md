@@ -12,6 +12,8 @@
 4 - Fundamentos de algoritmos 
 5 - Linguagem de programação
 
+
+
 ## Tópico 1
 
 História da computação está atrelada à matemática.
@@ -29,6 +31,8 @@ História da computação está atrelada à matemática.
 
 **Criação da Linguagem Basic** - Bill Gates e Paul Allen
 
+
+
 ## Tópico 2
 
 **Lógica** - Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
@@ -40,6 +44,8 @@ História da computação está atrelada à matemática.
 **Técnica Estruturada** - Estrutura. Organização, disposição e ordem dos elementos essenciais que compõem um corpo. Facilita a escrita, entendimento, validação e manutenção.
 
 **Técnica Modular** - Partes independentes. Controlada por um conjunto de regras. Simplificação. Decompor o problema. Modelo padrão } Dados de entrada → Processo de transformação → Dados de saída
+
+
 
 ## Tópico 3
 
@@ -58,9 +64,12 @@ História da computação está atrelada à matemática.
 **Construção de um algoritmo -** Compreensão do problema, definição dos dados de entrada, definir processamento, definir dados de saída, utilizar um método de construção e teste e diagnóstico.
 
 - **Narrativa** - Utilização da linguagem natural. 
+
 - **Fluxograma** - Utilização de símbolos pré-definidos. 
 
 - **Pseudocódigo** - Portugol (português estruturado).
+
+  
 
 ## Tópico 4
 
