@@ -6,9 +6,9 @@
 
 **Tópicos:**
 
-1 - Conceitos iniciais sobre estrutura de dados, arrays e registro 
-2 - Entenda o que são Listas, Pilhas e Filas 
-3 - Estrutura de dados do tipo Árvore, Tabelha Hash e Grafos
+- 1 - Conceitos iniciais sobre estrutura de dados, arrays e registro 
+- 2 - Entenda o que são Listas, Pilhas e Filas 
+- 3 - Estrutura de dados do tipo Árvore, Tabelha Hash e Grafos
 
 
 
