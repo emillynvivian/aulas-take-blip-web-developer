@@ -6,11 +6,11 @@
 
 **Tópicos:**
 
-1 - História da programação 
-2 - Introdução à lógica de programação 
-3 - Algoritmos 
-4 - Fundamentos de algoritmos 
-5 - Linguagem de programação
+- 1 - História da programação 
+- 2 - Introdução à lógica de programação 
+- 3 - Algoritmos 
+- 4 - Fundamentos de algoritmos 
+- 5 - Linguagem de programação
 
 
 
