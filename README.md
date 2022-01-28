@@ -1,4 +1,4 @@
-## 🚀Anotações Bootcamp |Take Blip Web Developer
+## 🚀Anotações Bootcamp | Take Blip Web Developer
 
 Esse repositório foi criado para o projeto **"Criando seu Primeiro Repositório no GitHub para Compartilhar Seu Progresso"** da DIO. Nele, irei atualizar minhas anotações do bootcamp Take Blip Web Developer, disponibilizado gratuitamente pela Digital Innovation One. 
 
